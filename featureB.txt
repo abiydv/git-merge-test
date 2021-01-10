@@ -1,3 +1,7 @@
 commit 1 on featureB branch
 
 commit 2 on featureB branch
+
+fix bugB on featureB
+
+fix bugB some more on featureB
