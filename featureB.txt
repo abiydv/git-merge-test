@@ -1,0 +1,3 @@
+commit 1 on featureB branch
+
+commit 2 on featureB branch
