@@ -4,3 +4,6 @@ commit 2 on featureC
 
 commit 3 on featureC
 commit 3 on featureC
+
+change for featureE
+more change for featureE
